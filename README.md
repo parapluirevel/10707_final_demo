@@ -1,2 +1,3 @@
 # 10707_final_demo
-Stylized animated sticker
+An example of our final result: A stylized animated sticker
+![](stylized_smile.gif)
