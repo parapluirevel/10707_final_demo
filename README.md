@@ -2,4 +2,4 @@
 ![](stylized_smile_cycle.gif)
 
 
-An example of our final result: a smiley stylized animated sticker. (This is one of our team members :D)
+An example of our model's final output: a smiley stylized animated sticker. (This is one of our team members :D)
